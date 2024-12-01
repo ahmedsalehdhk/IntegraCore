@@ -1,2 +1,0 @@
-# IntegraCore
-Commercial ERP Software.
